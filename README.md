@@ -1,1 +1,0 @@
-# OOP labs for geekbrains
